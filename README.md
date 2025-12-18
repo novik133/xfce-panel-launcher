@@ -6,27 +6,37 @@ A modern, full-screen application launcher plugin for XFCE Panel, inspired by ma
 
 ![Screenshot](screenshots/launcher.png)
 
-<a href="link-do-zdjecia1.png">
-  <img src="link-do-zdjecia1.png" width="100%" alt="Główny zrzut ekranu">
-</a>
+<div align="center">
+  <a href="screenshots/screenshot1.png">
+    <img src="screenshots/screenshot1.png" width="100%" alt="Główny screenshot" style="max-width: 100%;">
+  </a>
+</div>
 
 <br>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table width="100%" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
   <tr>
-    <td width="50%">
-      <a href="/screenshot/screenshot.png"><img src="link-do-zdjecia2.png" width="100%"></a>
+    <td style="padding: 2px; border: none;">
+      <a href="screenshots/screenshot2.png">
+        <img src="screenshots/screenshot2.png" width="100%" style="display: block;">
+      </a>
     </td>
-    <td width="50%">
-      <a href="/screenshot/screenshot2.png><img src="link-do-zdjecia3.png" width="100%"></a>
+    <td style="padding: 2px; border: none;">
+      <a href="screenshots/screenshot3.png">
+        <img src="screenshots/screenshot3.png" width="100%" style="display: block;">
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="/screenshot/screenshot3.png"><img src="link-do-zdjecia4.png" width="100%"></a>
+    <td style="padding: 2px; border: none;">
+      <a href="screenshots/screenshot4.png">
+        <img src="screenshots/screenshot4.png" width="100%" style="display: block;">
+      </a>
     </td>
-    <td width="50%">
-      <a href="/screenshot/screenshot4.png"><img src="link-do-zdjecia5.png" width="100%"></a>
+    <td style="padding: 2px; border: none;">
+      <a href="screenshots/screenshot5.png">
+        <img src="screenshots/screenshot5.png" width="100%" style="display: block;">
+      </a>
     </td>
   </tr>
 </table>
