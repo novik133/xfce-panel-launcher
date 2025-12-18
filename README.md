@@ -6,7 +6,7 @@ A modern, full-screen application launcher plugin for XFCE Panel, inspired by ma
 
 <div align="center">
   <a href="screenshots/screenshot.png">
-    <img src="screenshots/screenshot1.png" width="100%" alt="Główny screenshot" style="max-width: 100%;">
+    <img src="screenshots/screenshot.png" width="100%" alt="Główny screenshot" style="max-width: 100%;">
   </a>
 </div>
 
