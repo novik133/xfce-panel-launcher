@@ -6,6 +6,31 @@ A modern, full-screen application launcher plugin for XFCE Panel, inspired by ma
 
 ![Screenshot](screenshots/launcher.png)
 
+<a href="link-do-zdjecia1.png">
+  <img src="link-do-zdjecia1.png" width="100%" alt="Główny zrzut ekranu">
+</a>
+
+<br>
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td width="50%">
+      <a href="/screenshot/screenshot.png"><img src="link-do-zdjecia2.png" width="100%"></a>
+    </td>
+    <td width="50%">
+      <a href="/screenshot/screenshot2.png><img src="link-do-zdjecia3.png" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="/screenshot/screenshot3.png"><img src="link-do-zdjecia4.png" width="100%"></a>
+    </td>
+    <td width="50%">
+      <a href="/screenshot/screenshot4.png"><img src="link-do-zdjecia5.png" width="100%"></a>
+    </td>
+  </tr>
+</table>
+
 ## Version
 
 0.7
