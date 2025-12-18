@@ -1,6 +1,28 @@
+
 # Changelog
 
 All notable changes to the XFCE Launcher Plugin will be documented in this file.
+
+## [0.7] - 2025-12-17
+
+### Added
+- Hotkey setting to toggle the launcher (integrates with XFCE custom keyboard shortcuts)
+- Drag & drop improvements:
+	- Reorder apps by dragging
+	- Create folders by dropping an app onto another app
+	- Add apps to folders by dropping onto a folder
+- Search result highlighting (matched text in app names is highlighted)
+- Responsive layout: grid size, icon size, and spacing adapt to the current screen resolution when opened
+
+### Changed
+- Settings dialog updated (includes hotkey configuration)
+- Configuration saving is more robust (XML attribute escaping)
+
+### Fixed
+- Fixed broken drag-and-drop behavior
+- Fixed potential memory leak when loading configuration (folder id replacement)
+- Fixed callback type mismatches and reduced build warnings
+
 
 ## [0.6] - 2025-07-23
 
