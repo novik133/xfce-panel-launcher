@@ -8,7 +8,7 @@ A modern, full-screen application launcher plugin for XFCE Panel, inspired by ma
 
 ## Version
 
-0.6
+0.7
 
 ## Overview
 
