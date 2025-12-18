@@ -171,7 +171,7 @@ If Snap or Flatpak applications don't appear:
 ## Author
 
 **Kamil 'Novik' Nowicki**
-- Email: kamil.nowik85@icloud.com
+- Email: kamil.nowak85@icloud.com
 - Website: 
 - GitHub: https://github.com/novik133/xfce-panel-launcher/tree/main
 
