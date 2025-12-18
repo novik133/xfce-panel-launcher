@@ -1,4 +1,17 @@
 /*
+ * XFCE Launcher Plugin v0.7
+ *
+ * Changelog:
+ * - Hotkey setting to toggle the launcher (integrates with XFCE custom keyboard shortcuts)
+ * - Drag & drop improvements: reorder apps, create folders, add apps to folders
+ * - Search result highlighting (matched text in app names is highlighted)
+ * - Responsive layout: grid size, icon size, and spacing adapt to the current screen resolution
+ * - Settings dialog updated (includes hotkey configuration)
+ * - Configuration saving is more robust (XML attribute escaping)
+ * - Fixed broken drag-and-drop behavior
+ * - Fixed potential memory leak when loading configuration (folder id replacement)
+ * - Fixed callback type mismatches and reduced build warnings
+
  * Enhanced application loader with Snap and Flatpak support
  * 
  * Copyright (C) 2025 Kamil 'Novik' Nowicki
