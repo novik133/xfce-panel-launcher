@@ -1,5 +1,6 @@
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/novadesktop)
-I forked this repository from my old account because I lost access to it. The only development work and active code will be on this account.
+
+# I forked this repository from my old account because I lost access to it. The only development work and active code will be on this account.
 
 # XFCE Launcher Plugin
 
